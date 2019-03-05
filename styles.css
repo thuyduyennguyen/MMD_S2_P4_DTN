@@ -160,7 +160,6 @@ header{
 .active .bar::after{
     top: 0;
 }
-
 /*Header - Nav*/
 #logo{
     display: none;
@@ -299,7 +298,6 @@ header{
                 rgba(0,0,0,0.5)), url("images/between.jpeg") center no-repeat;
     background-size: cover;
 }
-
 /*Section - Our Menu*/
 .image-group{
     display: grid;
@@ -321,7 +319,7 @@ header{
     background-size: cover;
 }
 
-/*Section - Contact*/
+/*Section - Contact Us*/
 .contact-us form{
     width: 100%;
     min-width: 9rem;
