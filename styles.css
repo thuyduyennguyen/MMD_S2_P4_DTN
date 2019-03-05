@@ -22,7 +22,7 @@ body{
     --main-white: #fff;
     --main-font-dark-gray: #4d4d4d;
     --main-footer-bg-color: #141414;
-    --main-font-family: "Freestyle Script", regular;
+    --main-font-family: "Times New Roman", cursive;
 }
 
 section{
@@ -31,7 +31,7 @@ section{
 
 p{
     line-height: 1.5;
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     font-weight: 300;
     color: var(--main-font-dark-gray);
 }
@@ -68,6 +68,7 @@ a{
 <<<<<<< HEAD
 <<<<<<< HEAD
     font-size: 5rem;
+<<<<<<< HEAD
 =======
     font-size: 6.5rem;
 >>>>>>> parent of 0e6906a... 5/3: Gennemgang af header
@@ -75,6 +76,9 @@ a{
     font-size: 6.5rem;
 >>>>>>> parent of 0e6906a... 5/3: Gennemgang af header
     line-height: 1;
+=======
+    line-height: 1.5;
+>>>>>>> parent of 54e95f3... 5/3: styles.css
     font-weight: 100;
 }
 
