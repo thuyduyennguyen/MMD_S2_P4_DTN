@@ -1,0 +1,5 @@
+ErrorDocument 404 http://www.riviera.studiebib.dk/404.html
+ RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.riviera.studiebib.dk [NC]
+RewriteRule ^(.*)$ http://riviera.studiebib.dk/$1 [L,R=301]
