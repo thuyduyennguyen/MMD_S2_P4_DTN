@@ -65,7 +65,11 @@ a{
 .custom-font{
     font-family: var(--main-font-family);
     color: var(--main-font-color);
+<<<<<<< HEAD
     font-size: 5rem;
+=======
+    font-size: 6.5rem;
+>>>>>>> parent of 0e6906a... 5/3: Gennemgang af header
     line-height: 1;
     font-weight: 100;
 }
