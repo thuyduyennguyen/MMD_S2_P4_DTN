@@ -1,0 +1,16 @@
+Kilder på billederne som er anvendt til hjemmesiden.
+
+Billede ID: "between"
+Hjemmeside: https://pizza4ps.com/img2017/about/farm/img_main.jpg
+
+Billede ID: "between2"
+Hjemmeside: https://amazingpict.com/wp-content/uploads/2015/12/tomato-food-drink.jpg
+
+BILLEDE ID: "hero"
+Hjemmeside: https://pizza4ps.com/img2017/top/img_main.jpg
+
+Billede ID: "rb1, rb2, rb3, rb4"
+Hjemmeside/pdf: http://www.rivierabar.dk/cms/menukort.pdf
+
+Billede ID: "store"
+- Billedet selv taget (egen indvirkning).
