@@ -1,0 +1,5 @@
+ErrorDocument 404 http://www.reiki.ipage.one/404.html
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} ^www.reiki.ipage.one [NC]
+RewriteRule ^(.*)$ http://reiki.ipage.one/$1 [L,R=301]
