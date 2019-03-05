@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset>
+
+<url>
+<loc>https://riviera.studiebib.dk/</loc>
+<lastmod>2019-05-16T55:01TZD</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1</priority>
+</url>
+
+<url>
+    <loc>https://riviera.studiebib.dk/</loc>
+    <image:image>
+        <image:loc>http://studiebib.dk/riviera/Vector.png</image:loc>
+        <image:caption>Logoet repræsenterer Riviera Bar </image:caption>
+        <image:title>Logo Riviera Bar</image:title>
+    </image:image>
+    </url>
+
+
+</urlset>
